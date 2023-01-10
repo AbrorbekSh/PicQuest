@@ -1,4 +1,4 @@
-# Splash-App
+# Unsplash-App
 Before launchin app add Realm pods
 
 ![Simulator Screen Shot - iPhone 13 Pro Max - 2023-01-10 at 14 04 14](https://user-images.githubusercontent.com/107983374/211495003-5aa1e92a-e3fb-4d04-941a-4537e1742291.png)
